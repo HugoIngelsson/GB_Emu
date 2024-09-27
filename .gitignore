@@ -1,0 +1,5 @@
+roms/*.gb
+roms/*.gba
+roms/saves/*.extram
+roms/saves/*.wram
+build
